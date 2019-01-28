@@ -13,7 +13,7 @@ Kategori
 ![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/kategori.JPG)
 
 Add Kategori
-![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/add-kat.JPG)
+![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/add kat.JPG)
 
 Berhasil Add Kategori
 ![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/sukses kat.JPG)
@@ -25,7 +25,7 @@ Add Barang
 ![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/addbar.JPG)
 
 Berhasil Add Barang
-![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/sukses-bar.JPG)
+![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/sukses bar.JPG)
 
 Daftar Pelanggan
 ![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/daftarpel.JPG)
