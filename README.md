@@ -16,7 +16,7 @@ Add Kategori
 ![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/addkat.JPG)
 
 Berhasil Add Kategori
-![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/sukses kat.JPG)
+![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/sukseskat.JPG)
 
 Barang
 ![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Praktikum-Login-dan-CRUD/blob/master/barang.JPG)
